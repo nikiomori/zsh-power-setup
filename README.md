@@ -28,17 +28,17 @@ The script will automatically check and install missing dependencies. Base requi
 
 1. Download the script:
 ```bash
-curl -O https://raw.githubusercontent.com/your-username/zsh-setup/main/setup.sh
+curl -O https://github.com/nikiomori/zsh-power-setup/blob/main/zsh-power-setup.sh
 ```
 
 2. Make it executable:
 ```bash
-chmod +x setup.sh
+chmod +x zsh-power-setup.sh
 ```
 
 3. Run the script:
 ```bash
-./setup.sh
+./zsh-power-setup.sh
 ```
 
 ## What the Script Does
